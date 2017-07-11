@@ -1,0 +1,2 @@
+# ScalaSlick
+Slick
